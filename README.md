@@ -65,7 +65,7 @@ Requirements (< 2.1.0):
 
 Install:
 
-    git clone https://github.com/exsilium/cloud9.git
+    git clone https://github.com/kamaljoshi/cloud9.git
     cd cloud9
     npm install
 
