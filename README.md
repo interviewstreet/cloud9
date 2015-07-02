@@ -63,6 +63,8 @@ Requirements (< 2.1.0):
   * NPM `>= 1.1.16`
   * libxml2-dev
 
+You can install the requirements by running the script `bin/setup.sh`
+
 Install:
 
     git clone https://github.com/kamaljoshi/cloud9.git
