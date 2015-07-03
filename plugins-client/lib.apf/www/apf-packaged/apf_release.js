@@ -4,7 +4,6 @@
 
 
 
-
 /*
  * See the NOTICE file distributed with this work for additional
  * information regarding copyright ownership.
@@ -39882,7 +39881,7 @@ apf.runNonIe = function (){
         ASYNCNOTSUPPORTED           = true;
     } catch(e) {/*trap*/} 
     
-    Document.prototype.onreadystatechange = null;
+    // Document.prototype.onreadystatechange = null;
     Document.prototype.parseError         = 0;
     
     Array.prototype.item = function(i){return this[i];};
